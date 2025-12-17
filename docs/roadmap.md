@@ -1,3 +1,5 @@
+[Home](index.md) • [Vision](vision.md) • [Roadmap](roadmap.md) • [Rules](token-policy.md)
+
 # Roadmap (Draft)
 
 ## Phase 0 — Foundation (now)
