@@ -1,4 +1,8 @@
-[Home](index.md) • [Vision](vision.md) • [Roadmap](roadmap.md) • [Rules](token-policy.md)
+---
+title: Vision
+nav_order: 2
+---
+
 
 # Peroxide Studio – Vision
 
