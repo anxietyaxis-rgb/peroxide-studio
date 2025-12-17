@@ -1,3 +1,5 @@
+[Home](index.md) • [Vision](vision.md) • [Roadmap](roadmap.md) • [Rules](token-policy.md)
+
 # Peroxide Studio – Vision
 
 Peroxide Studio is an open-source community coordination framework designed to reduce the financial barriers of gaming by rewarding participation, skill, and contribution rather than speculation or pay-to-win mechanics.
