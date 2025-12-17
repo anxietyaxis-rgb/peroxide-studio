@@ -1,4 +1,8 @@
-[Home](index.md) • [Vision](vision.md) • [Roadmap](roadmap.md) • [Rules](token-policy.md)
+---
+title: Rules
+nav_order: 4
+---
+
 
 # Token Policy (PXC)
 
