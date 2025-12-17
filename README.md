@@ -45,5 +45,5 @@ Early-stage. We’re focusing on:
 - Contribute: `CONTRIBUTING.md`
 
 ## Links
-- Discord: Peroxide Studio
+- Discord: [Peroxide Studio](https://discord.gg/f3er34cHKz)
 - Token contract (Ethereum): 0x4CAE8df377419DFEdFe81B129Be26BDc1DA9130e
