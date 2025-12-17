@@ -3,8 +3,8 @@
 Welcome to the official documentation site.
 
 ## Start here
-- Read the Vision
-- Check the Roadmap
-- Understand the Rules
+- [Read the Vision](vision.md)
+- [Check the Roadmap](roadmap.md)
+- [Understand the Rules](token-policy.md)
 
 This project is documentation-first. Code may come later.
