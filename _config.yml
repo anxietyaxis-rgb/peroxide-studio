@@ -1,3 +1,6 @@
 title: Peroxide Studio
 description: Documentation-first framework for community-driven gaming rewards
-theme: jekyll-theme-minimal
+theme: just-the-docs
+
+url: https://anxietyaxis-rgb.github.io
+baseurl: /peroxide-studio
