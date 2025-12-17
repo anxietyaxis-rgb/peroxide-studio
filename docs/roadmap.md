@@ -1,4 +1,8 @@
-[Home](index.md) • [Vision](vision.md) • [Roadmap](roadmap.md) • [Rules](token-policy.md)
+---
+title: Roadmap
+nav_order: 3
+---
+
 
 # Roadmap (Draft)
 
