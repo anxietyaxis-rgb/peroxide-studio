@@ -1,3 +1,5 @@
+[Home](index.md) • [Vision](vision.md) • [Roadmap](roadmap.md) • [Rules](token-policy.md)
+
 # Token Policy (PXC)
 
 PXC is treated as OPTIONAL utility.
