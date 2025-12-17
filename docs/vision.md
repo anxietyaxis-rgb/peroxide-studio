@@ -13,5 +13,3 @@ The project focuses on building open infrastructure that allows gaming communiti
 Peroxide Studio does not position itself as an investment product or speculative token ecosystem. Instead, it treats tokens as an accounting and coordination mechanism for community benefit distribution, experimentation, and incentive alignment.
 
 By leveraging Ethereum’s transparency and open standards, Peroxide Studio seeks to create a reproducible model that other communities can adapt—supporting fairer access to gaming experiences while fostering collaboration, accountability, and long-term sustainability.
-
-Add project vision
