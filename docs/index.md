@@ -1,3 +1,5 @@
+[Home](index.md) • [Vision](vision.md) • [Roadmap](roadmap.md) • [Rules](token-policy.md)
+
 # Peroxide Studio
 
 Welcome to the official documentation site.
